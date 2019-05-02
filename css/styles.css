@@ -1,4 +1,42 @@
-button {
- color: navy;
+.content {
+    font-size: 100px;
+    font-family: fantasy;
+    color: yellow;
+      }
 
-}
+    .block-1 {
+        border: 600px;
+        height: 600px;
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        flex-wrap: wrap;
+    
+            
+    }
+    
+    .button {
+        height: 300px;
+        margin: 10px;
+        font-size: 100px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      
+    }
+    
+    .button2 {
+        width: 400px;
+        display: flex;
+        
+    
+    }
+    
+    .button3 {
+        width: 600px;
+        height: 400px;
+        display: flex;
+        
+    
+    }
+  
